@@ -1,2 +1,3 @@
-# mytodolist.github.io
-JavaScript to do list
+view demo at
+
+https://chetan-2000.github.io/mytodolist.github.io/
